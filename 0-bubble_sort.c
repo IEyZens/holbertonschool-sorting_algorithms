@@ -1,7 +1,9 @@
 #include "sort.h"
 
 /**
- *
+ * bubble_sort - check the code
+ * @array: est un int pointeur
+ * @size: est une taille
  */
 void bubble_sort(int *array, size_t size)
 {
